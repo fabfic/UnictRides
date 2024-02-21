@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">UNICT Rides</string>
+
+    <string-array name="facolta">
+        <item>Agricoltura, Alimentazione e Ambiente</item>
+        <item>Chirurgia generale e specialità medico-chirurgiche</item>
+        <item>Economia e Impresa</item>
+        <item>Fisica e Astronomia "Ettore Majorana"</item>
+        <item>Giurisprudenza</item>
+        <item>Ingegneria civile e Architettura</item>
+        <item>Ingegneria elettrica, elettronica e informatica</item>
+        <item>Matematica e Informatica</item>
+        <item>Medicina clinica e sperimentale</item>
+        <item>Scienze biologiche, geologiche e ambientali</item>
+        <item>Scienze biomediche e biotecnologiche</item>
+        <item>Scienze chimiche</item>
+        <item>Scienze del Farmaco e della Salute</item>
+        <item>Scienze della formazione</item>
+        <item>Scienze mediche, chirurgiche e tecnologie avanzate "Ingrassia"</item>
+        <item>Scienze politiche e sociali</item>
+        <item>Scienze Umanistiche</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fab_content_desc">Aggiungi una offerta di passaggio</string>
+    <string name="spinner_prompt_destinazione">Destinazione</string>
+
+</resources>

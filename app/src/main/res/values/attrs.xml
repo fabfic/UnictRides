@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="dialogButtonBase" format="string" />
+    <attr name="dialogButtonRed" format="string" />
+    <attr name="dialogBackgroundColor" format="string" />
+    <attr name="spinnerStrokeColor" format="string" />
+    <attr name="spinnerBackgroundColor" format="string" />
+    <attr name="dialogButtonNeutral" format="string" />
+    <attr name="colorSecondaryInverse" format="string" />
+    <attr name="buttonColorGreen" format="string" />
+    <attr name="cardBackgroundTint" format="string" />
+    <attr name="richiestaTint" format="string" />
+</resources>

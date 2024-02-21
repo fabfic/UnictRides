@@ -1,0 +1,48 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.UNICTRides" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+        <!-- Optional: set to transparent if your app is drawing behind the status bar. -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+
+        <item name="colorOnBackground">@color/white</item>
+        <item name="colorSecondary">@color/light</item>
+        <item name="colorPrimaryInverse">@color/dark</item>
+        <item name="colorSecondaryInverse">@color/light_night</item>
+
+        <item name="cardBackgroundTint">@color/white</item>
+        <item name="buttonColorGreen">@color/green</item>
+        <item name="dialogButtonNeutral">@color/dark_grey</item>
+        <item name="dialogButtonBase">@color/base</item>
+        <item name="dialogButtonRed">@color/rosso</item>
+        <item name="dialogBackgroundColor">@color/white</item>
+        <item name="spinnerStrokeColor">@color/light_grey</item>
+        <item name="spinnerBackgroundColor">@color/white</item>
+
+        <item name="richiestaTint">@color/orange</item>
+
+    </style>
+
+    <style name="Theme.Homepage" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:statusBarColor">@color/base</item>
+
+        <item name="colorOnBackground">@color/white</item>
+        <item name="colorSecondary">@color/light</item>
+        <item name="colorPrimaryInverse">@color/dark</item>
+        <item name="colorSecondaryInverse">@color/light_night</item>
+
+        <item name="cardBackgroundTint">@color/white</item>
+        <item name="buttonColorGreen">@color/green</item>
+        <item name="dialogButtonNeutral">@color/dark_grey</item>
+        <item name="dialogButtonBase">@color/base</item>
+        <item name="dialogButtonRed">@color/rosso</item>
+        <item name="dialogBackgroundColor">@color/white</item>
+        <item name="spinnerStrokeColor">@color/light_grey</item>
+        <item name="spinnerBackgroundColor">@color/white</item>
+
+        <item name="richiestaTint">@color/orange</item>
+
+    </style>
+</resources>

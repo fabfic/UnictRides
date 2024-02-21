@@ -1,0 +1,50 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.UNICTRides" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+
+        <!-- Optional: set to transparent if your app is drawing behind the status bar. -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+
+
+        <item name="colorPrimaryInverse">@color/light</item>
+        <item name="colorSecondary">@color/light_night</item>
+        <item name="colorOnBackground">@color/dark</item>
+        <item name="colorSecondaryInverse">@color/light</item>
+
+        <item name="cardBackgroundTint">@color/light_dark</item>
+        <item name="buttonColorGreen">@color/light_green</item>
+        <item name="dialogButtonNeutral">@color/grey</item>
+        <item name="dialogButtonBase">@color/base_light</item>
+        <item name="dialogButtonRed">@color/rosso_light</item>
+        <item name="dialogBackgroundColor">@color/light_night</item>
+        <item name="spinnerStrokeColor">@color/light_grey</item>
+        <item name="spinnerBackgroundColor">@color/light_night</item>
+
+        <item name="richiestaTint">@color/light_orange</item>
+
+    </style>
+
+    <style name="Theme.Homepage" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:statusBarColor">@color/base</item>
+
+
+        <item name="colorPrimaryInverse">@color/light</item>
+        <item name="colorSecondary">@color/light_night</item>
+        <item name="colorOnBackground">@color/dark</item>
+        <item name="colorSecondaryInverse">@color/light</item>
+
+        <item name="cardBackgroundTint">@color/light_dark</item>
+        <item name="buttonColorGreen">@color/light_green</item>
+        <item name="dialogButtonNeutral">@color/grey</item>
+        <item name="dialogButtonBase">@color/base_light</item>
+        <item name="dialogButtonRed">@color/rosso_light</item>
+        <item name="dialogBackgroundColor">@color/light_night</item>
+        <item name="spinnerStrokeColor">@color/light_grey</item>
+        <item name="spinnerBackgroundColor">@color/light_night</item>
+
+        <item name="richiestaTint">@color/light_orange</item>
+
+    </style>
+</resources>

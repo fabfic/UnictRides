@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="clean">#FAFAFA</color>
+    <color name="base">#413EAA</color>
+    <color name="base_light">#514EE9</color>
+    <color name="light">#F5F5F5</color>
+    <color name="light_night">#232323</color>
+    <color name="dark">#0F0F0F</color>
+    <color name="rosso">#B30000</color>
+    <color name="rosso_light">#BD3D3D</color>
+    <color name="light_grey">#B8B8B8</color>
+    <color name="base_purple">#4936B3</color>
+    <color name="dark_grey">#4E4E4E</color>
+    <color name="grey">#9C9C9C</color>
+    <color name="green">#45A10A</color>
+    <color name="light_green">#5BC915</color>
+    <color name="light_dark">#373737</color>
+    <color name="orange">#FF6D00</color>
+    <color name="light_orange">#FFAB00</color>
+
+</resources>

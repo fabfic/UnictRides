@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "129307966442",
+    "firebase_url": "https://unict-rides-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "unict-rides",
+    "storage_bucket": "unict-rides.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129307966442:android:c16c5b0290996584a99093",
+        "android_client_info": {
+          "package_name": "com.example.unictrides"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129307966442-4k5e8ajj9pbo2dfhn722ri3rnpib5nd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGh8zwqW9vEvmq-tY8MxA7Tvlt2mWlHIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129307966442-4k5e8ajj9pbo2dfhn722ri3rnpib5nd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
