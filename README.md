@@ -10,3 +10,9 @@
 
 ![unictridesimg](https://github.com/fabfic/UnictRides/assets/154684253/641ed998-3ff8-4fe5-891d-e7e3c77d49bd)
 
+---
+
+Altough this app is fully functional, it's not yet published on any app store. 
+
+If you want to try it you can download the APK in the [release](https://github.com/fabfic/UnictRides/releases) section. 
+ 
